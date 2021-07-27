@@ -25,18 +25,17 @@ Close = closing price on the same day <br/>
 Adj close  = splitting phenomenon # adjusted close <br/>
 volume  = total number coins available in the market on the same day <br/>
 
-This project is developed by, <br/>
+This project has been developed by, <br/>
 
-# Ayushmaan Dev Verma,<br/>
-Final Year Undergraduate,<br/>
-Mathematics Department, IIT Bombay <br/>
-<br/>
-and 
-<br/>
-# Dipanshu Sharma,<br/>
-Final Year Undergraduate,<br/>
-Mathematics Department, IIT Bombay <br/>
-<br/>
+# Dipanshu Sharma 
+Final Year Undergraduate, <br/>
+Mathematics Department IIT Bombay <br/>
+https://www.linkedin.com/in/dipanshu-sharma-523921176 <br/>
+
+# Ayushman Dev Verma 
+Final Year Undergraduate, <br/>
+Mathematics Department IIT Bombay <br/>
+https://www.linkedin.com/in/ayushmaan-dev-verma-654b57170 <br/>
 
 <br/>
-Visit the following url to see, visulalize and forecast the trends and forecasts, https://ayushdv.shinyapps.io/crypto_project/
+Visit the following website to see, visulalize and forecast the trends and forecasts: https://ayushdv.shinyapps.io/crypto_project/
